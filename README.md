@@ -31,8 +31,7 @@ Maliya-md whts app bot
 
 
 
-   <a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a><a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a>
-     
+   
    
 
    <p align="center"> 
