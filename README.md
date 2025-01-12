@@ -15,7 +15,7 @@ Maliya-md whts app bot
     <img src="https://files.catbox.moe/wuyr41.jpg" width="249">
 
 
-   <a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src=''/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
      
    <br>
   </br>
@@ -31,7 +31,7 @@ Maliya-md whts app bot
 
 
 
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a><a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a>
      
    
 
