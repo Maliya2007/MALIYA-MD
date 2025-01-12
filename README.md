@@ -3,7 +3,7 @@ Maliya-md whts app bot
 ## MALIYA MD EXPIRED 
 
 ### MALIYA MD COMING SOON 📍
-   <a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a><a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Created HESHAN MD ⚡</u>
 </p>     
