@@ -12,7 +12,7 @@ Maliya-md whts app bot
 
 <p align="center">
    <a href="https://github.com/Maliya2007/MALIYA-MD/edit/main/README.md">
-    <img src="https://files.catbox.moe/wuyr41.jpg" width="249">
+    <img src="https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg" width="249">
 
 
    <a><img src=''/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
