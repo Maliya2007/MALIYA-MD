@@ -3,8 +3,7 @@ Maliya-md whts app bot
 ## MALIYA MD EXPIRED 
 
 ### MALIYA MD COMING SOON 📍
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.ibb.co/NK04n1b/647d1a1160b4eb6b.jpg'/></a>
-<p align="center"> 
+   
 <u>⚡ A simple WhatsApp User Bot Created HESHAN MD ⚡</u>
 </p>     
 <p align="center">
@@ -12,7 +11,7 @@ Maliya-md whts app bot
  </p>
 
 <p align="center">
-   <a href="https://github.com/rcd-git-hub-official">
+   <a href="https://github.com/Maliya2007/MALIYA-MD/edit/main/README.md">
     <img src="https://files.catbox.moe/wuyr41.jpg" width="249">
 
 
@@ -23,10 +22,10 @@ Maliya-md whts app bot
 
       
 </p>
-<h1 align="center"> RCD MD V2
+<h1 align="center"> MALOYA MD V 1
 </h1>
 <p align="center"> 
-  Hemlo, I am "RCD MD V2" a WhatsApp bot create and code by Rcd Team to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hemlo, I am "MALIYA MD" a WhatsApp bot create and code by HESHAN MD to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 
 
@@ -37,7 +36,7 @@ Maliya-md whts app bot
    
 
    <p align="center"> 
-  <a href="https://github.com/rcd-git-hub-official/RCD-MD">
+  <a href="https://github.com/Maliya2007/MALIYA-MD/edit/main/README.md">
     <img src="https://img.shields.io/github/stars/rcd-git-hub-official/RCD-MD?style=social">
     
    <p align="center">
